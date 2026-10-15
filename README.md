@@ -54,7 +54,7 @@ I develop and debug microcontroller-based systems with a focus on **Embedded C/C
 | [mohammadzakariya07](https://github.com/mohammadzakariya07/mohammadzakariya07) | — | Python | 2026-10-15 |
 | [mohammad-zakariya-portfolio__](https://github.com/mohammadzakariya07/mohammad-zakariya-portfolio__) | mohammad-zakariya-portfolio__ | HTML | 2026-10-02 |
 | [mohammad-zakariya-portfolio](https://github.com/mohammadzakariya07/mohammad-zakariya-portfolio) | Personal portfolio of Mohammad Zakariya \| Embedded Systems Engineer | HTML | 2026-10-02 |
-| [2_door_inter_locking](https://github.com/mohammadzakariya07/2_door_inter_locking) | — | — | 2026-10-01 |
+
 | [Vehicle-Emergency-Car-Assist-System](https://github.com/mohammadzakariya07/Vehicle-Emergency-Car-Assist-System) | h | — | 2026-01-29 |
 | [12](https://github.com/mohammadzakariya07/12) | 12 | HTML | 2026-01-18 |
 <!-- LATEST_REPOS_END -->
