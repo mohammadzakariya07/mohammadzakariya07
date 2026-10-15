@@ -49,7 +49,14 @@ I develop and debug microcontroller-based systems with a focus on **Embedded C/C
 ## Latest Public Repositories
 
 <!-- LATEST_REPOS_START -->
-_This section is updated automatically by GitHub Actions. The newest recently updated public repositories will appear here._
+| Repository | Description | Language | Last updated |
+|---|---|---|---|
+| [mohammadzakariya07](https://github.com/mohammadzakariya07/mohammadzakariya07) | — | Python | 2026-10-15 |
+| [mohammad-zakariya-portfolio__](https://github.com/mohammadzakariya07/mohammad-zakariya-portfolio__) | mohammad-zakariya-portfolio__ | HTML | 2026-10-02 |
+| [mohammad-zakariya-portfolio](https://github.com/mohammadzakariya07/mohammad-zakariya-portfolio) | Personal portfolio of Mohammad Zakariya \| Embedded Systems Engineer | HTML | 2026-10-02 |
+| [Vehicle-Emergency-Car-Assist-System](https://github.com/mohammadzakariya07/Vehicle-Emergency-Car-Assist-System) | h | — | 2026-01-29 |
+| [12](https://github.com/mohammadzakariya07/12) | 12 | HTML | 2026-01-18 |
+| [portfolio](https://github.com/mohammadzakariya07/portfolio) | Portfolio | HTML | 2026-01-17 |
 <!-- LATEST_REPOS_END -->
 
 ---
